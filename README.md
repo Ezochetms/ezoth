@@ -1,12 +1,41 @@
-## Welcome to GitHub Pages
+# welcome to ezoch
 
-You can use the [editor on GitHub](https://github.com/Ezochetms/ezoth/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## EZOCHETMS/EZOCH
+![IMG_20220328_165213_683.jpg]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nom: EZOCHETMS
 
-### Markdown
+Symbol : EZOCH
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prix : 1 ezoch = 0.0032 ETH
+
+      **Existe en deux versions**
+
+### ethereum version **Erc20 token**
+
+_contract : 0xF980031D043051d8AFA923dca388E5E9b1FFE09c
+
+_wallet: Metamask
+
+_futur wallet : cctip and thundercore
+
+             **network**
+
+_Etape 1: tesnet distribution sur goerli tesnet
+
+_Etape 2 migration vers la mainnet
+
+_Etape 3 listing in uniswap
+
+_[telegram group](https://t.me/ezoch_ETHerc20)
+
+_[blog annonce](https://www.publish0x.com/ezoch/ezochetms-tokenerc20-xqenkng/?a=GRb4xO1kbB)
+
+_[canal](https://t.me/ezochmarket)
+
+_[gagner par parrainage](https://t.me/Ezoch_bot?start=r09372775470)
+
+**rejoin notre [groupe](https://t.me/ezoch_ETHerc20) sur telegramme pour gagner 1$ ezoch**
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +54,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ezochetms/ezoth/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
