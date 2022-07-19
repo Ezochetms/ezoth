@@ -37,20 +37,25 @@ _[canal](https://t.me/ezochmarket)
 _[gagner par parrainage](https://t.me/Ezoch_bot?start=r09372775470)
 
 **rejoin notre [groupe](https://t.me/ezoch_ETHerc20) sur telegramme pour gagner 1$ ezoch**
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### Version BITCOIN *Simpleledger token*
 
-**Bold** and _Italic_ and `Code` text
+Id: 681dcea5c181b4fea2c7d742278f9bca153957c1632ccbb579ca070ccf188eb9
 
-[Link](url) and ![Image](src)
+Wallet: [guava](https://guava.cash)
+
+Network: mainnet 
+
+[See explore](https://explore.cash/mainnet/tx/681dcea5c181b4fea2c7d742278f9bca153957c1632ccbb579ca070ccf188eb9)
+
+[Télégram group](https://t.me/Ezochetms_group)
+
+[Canal](https://t.me/ezochmarket)
+
+[Gagner par parrainage](https://t.me/Ezoch_bot?start=r09372775470)
+
+```GET STOCK TRADE EZOCH
+INCREASE EASELY YOUR MONEY WITH EZOCH
 ```
