@@ -41,6 +41,7 @@ _[gagner par parrainage](https://t.me/Ezoch_bot?start=r09372775470)
 
 
 #### Version BITCOIN *Simpleledger token*
+              SLP of bitcoincash
 
 Id: 681dcea5c181b4fea2c7d742278f9bca153957c1632ccbb579ca070ccf188eb9
 
@@ -55,6 +56,12 @@ Network: mainnet
 [Canal](https://t.me/ezochmarket)
 
 [Gagner par parrainage](https://t.me/Ezoch_bot?start=r09372775470)
+
+
+           [EZOCH logo](https://ourimagehosting.com/image/g36ID)
+
+
+
 
 ```GET STOCK TRADE EZOCH
 INCREASE EASELY YOUR MONEY WITH EZOCH
