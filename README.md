@@ -57,8 +57,7 @@ Network: mainnet
 
 [Gagner par parrainage](https://t.me/Ezoch_bot?start=r09372775470)
 
-
-           [EZOCH logo](https://ourimagehosting.com/image/g36ID)
+[EZOCH logo](https://ourimagehosting.com/image/g36ID)
 
 
 
